@@ -76,37 +76,9 @@ background-size: cover
 
 ---
 
-# Assembly Now [online]
-
-> _Assembly Now [online]_ is a virtual experience of the artists’ recent installation, which inaugurated Metro Arts’ Gallery One at West Village, as part of Brisbane Festival 2020. Simulating and expanding the physical installation, participants in the online version will be immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer’s own reflection captured and integrated within the artwork..
-
-.footnote[https://cenatus.org/articles/24-assembly-now-online-]
-
----
-
-background-image: url(https://res.cloudinary.com/cenatus/image/upload/ar_1.5,c_fill,dpr_3.0,w_800/v1627651547/assembly-now-horror_f441ih.png)
-background-size: cover
-
----
-
-background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474821/Screenshot_2020-09-30_at_11.14.05-edit_xstwcl.png)
-background-size: cover
-
----
-
-background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474828/Screenshot_2020-09-03_at_14.17.18_zojxhx.png)
-background-size: cover
-
----
-
-background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474831/Screenshot_2020-08-27_at_09.14.26_uganhx.png)
-background-size: cover
-
----
-
 # Transduction
 
-> _Transduction_ is a spatial's performative, live-coded, opti-sonic intervention designed for projection and multi-channel sound. Presented as an abstract animation of visual music, illusory visual and psychoacoustic effects probe perception via experimental psychological processes and kinetic optical techniques.
+> Transduction is a spatial's performative, live-coded, opti-sonic intervention designed for projection and multi-channel sound. Presented as an abstract animation of visual music, illusory visual and psychoacoustic effects probe perception via experimental psychological processes and kinetic optical techniques.
 
 .footnote[http://spatial.infrasonics.net/transduction]
 
@@ -138,9 +110,37 @@ background-size: cover
 
 ---
 
+# Assembly Now [online]
+
+> Assembly Now [online] is a virtual experience of the artists’ recent installation, which inaugurated Metro Arts’ new main gallery as part of Brisbane Festival 2020. Simulating and expanding on the physical installation, participants are immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer’s own image captured, integrated and combined with other viewers within the artwork.
+
+.footnote[https://cenatus.org/articles/24-assembly-now-online-]
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/ar_1.5,c_fill,dpr_3.0,w_800/v1627651547/assembly-now-horror_f441ih.png)
+background-size: cover
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474821/Screenshot_2020-09-30_at_11.14.05-edit_xstwcl.png)
+background-size: cover
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474828/Screenshot_2020-09-03_at_14.17.18_zojxhx.png)
+background-size: cover
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1652474831/Screenshot_2020-08-27_at_09.14.26_uganhx.png)
+background-size: cover
+
+---
+
 # Your Double My Double Our Ghost - South London Gallery
 
-> _Your Double My Double Our Ghost_ is a participatory installation by the artists which explores interaction and perception within a multi-sensory environment involving lighting and projection onto optical sheeting, sonic composition, and the viewer’s own reflection. The installation acts as a space for the consideration of intimacy and meditation– both alone and with others that may share the space– through the merging of the viewer’s own reflections articulated through a composition of shifting light and emerging sounds which fill an otherwise dark chamber.
+> Your Double My Double Our Ghost shown at South London Gallery, is a participatory installation which explores interaction and perception within a multi-sensory environment involving generative coding, lighting and projection onto optical sheeting, sonic composition, and the viewer’s own reflection. The installation acts as a space for the consideration of intimacy and meditation through the merging of the gallery visitor’s reflections which construct a new composition of light and sound in an otherwise dark chamber.
 
 .footnote[https://sallygolding.com/installation#/your-double-my-double-our-ghost/]
 
@@ -173,8 +173,8 @@ background-size: cover
 
 # Serralves Museum, Portugal
 
-> Improvised performance at the Serralves in Porto as part of their _Museum as Performance_ series using sonified lighting and emergent, live coded software in a sensory and hypnotic opti-sonic intervention.
-
+> Improvised performance at the Serralves contemporary art museum in Porto as part of their Museum as Performance series using sonified lighting and emergent, live coded software in a sensory and hypnotic opti-sonic intervention.
+>
 .footnote[https://sallygolding.com/performance#/spatial-golding]
 
 ---
@@ -226,13 +226,20 @@ background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8f
 background-size: cover
 
 ---
-
+<!--
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3SWATMC63x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
 
----
 
-# Thanks!
+.links[
+- [sallygolding.com](http://sallygolding.com)
 
-.footnote[https://bit.ly/golding-spendlove-portfolio]
+
+- [spatial.infrasonics.net](http://spatial.infrasonics.net)
+
+
+- [cenatus.org](https://cenatus.org)
+]
+
+
