@@ -110,6 +110,24 @@ background-size: cover
 
 ---
 
+# Re(evoke)
+
+> An ephemeral and immersive performance, Re(Evoke) manifests the visible light spectrum using a collision of soundscapes, blending cinema-for-the-ear with bass-driven electronic music to create an inseparable audiovisual synthesis..
+
+.footnote[https://sallygolding.com/performance#/reevoke]
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1729401825287-1KO9TJN8IUXL3VYYPMG7/SallyGolding-Gxbriellemxry-31_web.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1729401827413-NWYYBF2DW3GPOBAJBI0L/SallyGolding-Gxbriellemxry-39_web.jpg?format=1000w)
+background-size: cover
+
+---
+
 # Assembly Now [online]
 
 > Assembly Now [online] is a virtual experience of the artists’ recent installation, which inaugurated Metro Arts’ new main gallery as part of Brisbane Festival 2020. Simulating and expanding on the physical installation, participants are immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer’s own image captured, integrated and combined with other viewers within the artwork.
@@ -168,6 +186,59 @@ background-size: cover
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/181521177?h=316a61c4ba" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/181521177">Sally Golding - Your Double My Double Our Ghost installation</a> from <a href="https://vimeo.com/otherfilm">OtherFilm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
+
+# Light Begets Sound
+
+> _Light Begets Sound_ is a series of durational performances focussing on the potential of cinematic machine devices to immersive audiences in states of perception and sensation..
+
+.footnote[https://sallygolding.com/performance#/light-begets-sound]
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528826953156-CM2TG24GEUQ1RURGMYFD/3.2+ratio_S8_2a.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528801019128-ZVS4RKDJJFUYLCBCEIYS/3.2+ratio_Light+Begets+Sound+Labor+Berlin+2017_photo+by+Melina+Pafundi.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528758119762-XDTYU29HBNXXV9RQZCPW/3.2+ratio_Light+Begets+Sound_6.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528801059499-AD3H21CFNDZ227PBWDA0/3.2+ratio_Light+Begets+Sound_8.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528801217520-A58FLH91041KRKRDI2FL/3.2+ratio_S8_3.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528846130075-L4O65EO9A454226P97P5/3.2+ratio_S8_1.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528846211936-41EOYJW9XOUGLNEDI1CR/3.2+ratio_S8_4.jpg?format=1000w)
+background-size: cover
+
+---
+
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1528801276043-QRU0MESDGCM0ADP5UNZY/3.2+ratio_S8_5.jpg?format=1000w)
+background-size: cover
+
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/257929658?h=0e7775d6d1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/257929658">Spatial-Golding live at Splice Festival 2017</a> from <a href="https://vimeo.com/otherfilm">OtherFilm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
@@ -236,7 +307,7 @@ background-size: cover
 - [sallygolding.com](http://sallygolding.com)
 
 
-- [mattspendlove.com/](https://mattspendlove.com/)
+- [mattspendlove.com](https://mattspendlove.com/)
 
 
 - [cenatus.org](https://cenatus.org)
