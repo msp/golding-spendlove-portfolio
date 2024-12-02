@@ -80,7 +80,7 @@ background-size: cover
 
 > Transduction is a spatial's performative, live-coded, opti-sonic intervention designed for projection and multi-channel sound. Presented as an abstract animation of visual music, illusory visual and psychoacoustic effects probe perception via experimental psychological processes and kinetic optical techniques.
 
-.footnote[http://spatial.infrasonics.net/transduction]
+.footnote[https://mattspendlove.com/articles/3-transduction]
 
 ---
 
@@ -114,7 +114,7 @@ background-size: cover
 
 > Assembly Now [online] is a virtual experience of the artists’ recent installation, which inaugurated Metro Arts’ new main gallery as part of Brisbane Festival 2020. Simulating and expanding on the physical installation, participants are immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer’s own image captured, integrated and combined with other viewers within the artwork.
 
-.footnote[https://cenatus.org/articles/24-assembly-now-online-]
+.footnote[https://sallygolding.com/interactive#/assembly-now]
 
 ---
 
@@ -236,7 +236,7 @@ background-size: cover
 - [sallygolding.com](http://sallygolding.com)
 
 
-- [spatial.infrasonics.net](http://spatial.infrasonics.net)
+- [mattspendlove.com/](https://mattspendlove.com/)
 
 
 - [cenatus.org](https://cenatus.org)
