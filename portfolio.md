@@ -19,7 +19,7 @@ background-size: cover
 <br />
 <br />
 
-.footnote[Hit 'f' on your keyboard for fullscreen viewing]
+.footnote[Hit 'f' on your keyboard for fullscreen viewing. Use arrow keys or swipe to navigate. Laptop or desktop recommended.]
 
 ---
 
@@ -31,27 +31,27 @@ background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1c2de0ebbe8b5aa881188/1541522215259/3.2+ratio_Spatial-Golding_Decompression_Tyneside+Cinema_1.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8fed2e0f23643c/1541522208520-1TC9XNVKGL5EKXPD5I5J/3.2+ratio_Spatial-Golding_Decompression_Tyneside+Cinema_1.jpg?format=1500w)
 background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1d85540ec9a2aa07634c6/1541527877319/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_2.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/5b0ed463cc8fed2e0f23643c/1541527871611-KNCK515RIP5PWRGVDQNT/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_2.jpg?format=1500w)
 background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1d9dc2b6a2826c48e782f/1541528424843/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_3.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/5b0ed463cc8fed2e0f23643c/1541528418968-T2ES04MEQ90KQZCRJ5Q4/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_3.jpg?format=1500w)
 background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1e201aa4a99f4da267382/1541530321515/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_7.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/5b0ed463cc8fed2e0f23643c/1541530318779-4BI7X18STAKYJYU8D2A3/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_7.jpg?format=1500w)
 background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1e52e70a6ad2e8581936d/1541530996850/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_9.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/5b0ed463cc8fed2e0f23643c/1541530992265-3KQ8ZKV7WUKSDB5GJMHS/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_9.jpg?format=1500w)
 background-size: cover
 
 ---
@@ -60,7 +60,7 @@ background-size: cover
 
 ---
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1e4c4562fa7cc871be21d/1541531144232/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_10.jpg?format=1500w)
+background-image: url(https://images.squarespace-cdn.com/content/5b0ed463cc8fed2e0f23643c/1541531130206-JSC7FKGARGPHT06Z22ZY/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_10.jpg?format=1500w)
 background-size: contain
 background-color: black
 
